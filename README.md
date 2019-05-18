@@ -19,6 +19,7 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 
 ## 13:30-14:15
 
+- [【G】 Catch up Java 12 and Java 13](https://www.slideshare.net/YujiKubota/catch-up-java-12-and-java-13) KUBOTA Yuji ([@sugarlife](https://twitter.com/sugarlife))
 - [【M】 Java開発者のためのWebAuthn入門](https://speakerdeck.com/ynojima/webauthn-for-java-developers) 能島 良和
 
 ## 14:30-15:15
