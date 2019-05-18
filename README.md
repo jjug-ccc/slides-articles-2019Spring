@@ -30,6 +30,8 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 
 ## 16:45-17:30
 
+- [【M（前半）】 今日から始めるカジュアルなソースコード解析](https://speakerdeck.com/akiragoto/jjug-ccc-2019-spring) 後藤 祥
+
 ## 17:45-18:30
 
 ## LT(Lightning Talk)
