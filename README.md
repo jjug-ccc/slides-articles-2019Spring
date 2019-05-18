@@ -15,6 +15,7 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 
 ## 13:30-14:15
 
+- [【M】 Java開発者のためのWebAuthn入門](https://speakerdeck.com/ynojima/webauthn-for-java-developers) 能島 良和
 
 ## 14:30-15:15
 
