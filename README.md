@@ -9,7 +9,7 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 
 ## 11:00-11:45
 
-
+- [【G+H】 開発リーダー1年目。メンバーのスキルアップのためにやっていること。](https://docs.google.com/presentation/d/1Xx5UPJkmy2dgzRloe8zaGGpEPWk1rhLiAMypK4TKRz8/edit?usp=sharing) 丹野 航
 ## 12:00-12:45
 
 
