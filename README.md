@@ -8,7 +8,7 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 
 
 ## 11:00-11:45
-
+- [【M】 デプロイから考える僕のWEBアプリ開発](https://speakerdeck.com/instreest/think-from-deployment) 井上 和宏
 
 ## 12:00-12:45
 
