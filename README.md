@@ -5,6 +5,9 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 - [【E+F】 日本Javaユーザーグループ 年次総会](https://ここにスライドURLを入れてね) JJUG幹事
 
 ## 10:00-10:45
+
+- [【G+H】 Java11時代のHTTP(S)アクセス再入門](https://www.slideshare.net/tamrin69/introduction-httpclient-on-java11) Kiyotaka Suzuki ([@tamtam180](https://twitter.com/tamtam180))
+
 - [【M】 Eclipse MicroProfile提供機能に関する考察](https://github.com/jjug-ccc/slides-articles-2019Spring/blob/master/slide/m1a_EclipseMicroProfile.pdf) 髙橋 博実
 
 #ccc_m1a
