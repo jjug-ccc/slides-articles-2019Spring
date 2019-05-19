@@ -12,6 +12,7 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 
 ## 11:00-11:45
 
+- [【G+H】大企業運営の法人向けサービスにおけるOpenJDK移行事例 ](https://blog.fieldnotes.jp/entry/jjug-ccc-2019-spring) 大中浩行
 - [【G+H】 開発リーダー1年目。メンバーのスキルアップのためにやっていること。](https://docs.google.com/presentation/d/1Xx5UPJkmy2dgzRloe8zaGGpEPWk1rhLiAMypK4TKRz8/edit?usp=sharing) 丹野 航
 - [【I（後半）】 ArchUnit で Java/ Kotlin アプリケーションのアーキテクチャを CI する](https://speakerdeck.com/kawanamiyuu/jjug-ccc-2019-spring) かわなみゆう（[@kawanamiyuu](https://twitter.com/kawanamiyuu)）
 - [【M】 デプロイから考える僕のWEBアプリ開発](https://speakerdeck.com/instreest/think-from-deployment) 井上 和宏
