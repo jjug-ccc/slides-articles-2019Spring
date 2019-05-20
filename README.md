@@ -5,16 +5,14 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 - [【E+F】 日本Javaユーザーグループ 年次総会](https://ここにスライドURLを入れてね) JJUG幹事
 
 ## 10:00-10:45
-
+- [【C+D】Collections Framework 入門](https://www.slideshare.net/mikeneck/jjugccc-2019-spring-collections-framework-jjug-jjugccc-cccc1) [持田真哉(@mike_neck)](https://twitter.com/mike_neck)
 - [【G+H】 Java11時代のHTTP(S)アクセス再入門](https://www.slideshare.net/tamrin69/introduction-httpclient-on-java11) Kiyotaka Suzuki ([@tamtam180](https://twitter.com/tamtam180))
-
 - [【M】 Eclipse MicroProfile提供機能に関する考察](https://github.com/jjug-ccc/slides-articles-2019Spring/blob/master/slide/m1a_EclipseMicroProfile.pdf) 髙橋 博実
-
-#ccc_m1a
 
 ## 11:00-11:45
 
 - [【G+H】 開発リーダー1年目。メンバーのスキルアップのためにやっていること。](https://docs.google.com/presentation/d/1Xx5UPJkmy2dgzRloe8zaGGpEPWk1rhLiAMypK4TKRz8/edit?usp=sharing) 丹野 航
+- [【I（後半）】 ArchUnit で Java/ Kotlin アプリケーションのアーキテクチャを CI する](https://speakerdeck.com/kawanamiyuu/jjug-ccc-2019-spring) かわなみゆう（[@kawanamiyuu](https://twitter.com/kawanamiyuu)）
 - [【M】 デプロイから考える僕のWEBアプリ開発](https://speakerdeck.com/instreest/think-from-deployment) 井上 和宏
 
 ## 12:00-12:45
@@ -35,6 +33,7 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 ## 16:45-17:30
 
 - [【M（前半）】 今日から始めるカジュアルなソースコード解析](https://speakerdeck.com/akiragoto/jjug-ccc-2019-spring) 後藤 祥
+- [【M（後半）】 CDIポータブルエクステンションを作ってみよう](https://speakerdeck.com/neverbird/cdipotaburuekusutensiyonwozuo-tutemiyou) Fusayuki Minamoto
 
 ## 17:45-18:30
 
