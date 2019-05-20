@@ -46,7 +46,7 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 
 ## 17:45-18:30
 
-- [【M】 Reladomoを使ったトランザクション履歴管理をプロダクトに適用した際のメリット/デメリット/課題など](https://www.slideshare.net/navekazu/reladomo-146647716) 渡邉 一夫
+- [【M】 Reladomoを使ったトランザクション履歴管理をプロダクトに適用した際のメリット/デメリット/課題など](https://www.slideshare.net/navekazu/reladomo-146647716) 渡邉 一夫
 
 ## LT(Lightning Talk)
 - [Jib入門](https://speakerdeck.com/nogamincho/jibru-men) 野上 恭平 ([@nogamincho](https://twitter.com/nogamincho)）
