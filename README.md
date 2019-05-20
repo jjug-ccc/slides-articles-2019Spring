@@ -27,6 +27,7 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 ## 14:30-15:15
 
 - [【A+B（後半）】 入門: 末尾呼び出し最適化](https://https://speakerdeck.com/miyakawataku/tail-call-elimination-intro) 宮川拓 ([@miyakawa\_taku](https://twitter.com/miyakawa_taku))
+- [【E+F】 テストエンジニアが教える JUnitを書き始める前に考えるべきテスト](https://speakerdeck.com/nihonbuson/jjug-ccc-2019-spring) 風間 裕也 ([@nihonbuson](https://twitter.com/nihonbuson))
 
 ## 15:45-16:30
 
