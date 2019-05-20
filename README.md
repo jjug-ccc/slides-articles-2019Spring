@@ -15,6 +15,7 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 - [【G+H】 開発リーダー1年目。メンバーのスキルアップのためにやっていること。](https://docs.google.com/presentation/d/1Xx5UPJkmy2dgzRloe8zaGGpEPWk1rhLiAMypK4TKRz8/edit?usp=sharing) 丹野 航
 - [【I（後半）】 ArchUnit で Java/ Kotlin アプリケーションのアーキテクチャを CI する](https://speakerdeck.com/kawanamiyuu/jjug-ccc-2019-spring) かわなみゆう（[@kawanamiyuu](https://twitter.com/kawanamiyuu)）
 - [【M】 デプロイから考える僕のWEBアプリ開発](https://speakerdeck.com/instreest/think-from-deployment) 井上 和宏
+- [【M（後半）】 売れてる SaaS へのオブジェクトストレージ導入にまつわる泥臭い話](https://speakerdeck.com/westc/jjug-ccc-2019-spring) 西角 知佳
 
 ## 12:00-12:45
 
