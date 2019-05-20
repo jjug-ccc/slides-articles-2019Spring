@@ -25,6 +25,7 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 ## 13:30-14:15
 
 - [【C+D】 マルチテナントECシステムにおける拡張性と最新性の両立](https://www.slideshare.net/ssusera756b0/ec-146376859) 水野 謙
+- [【E+F】 先行開発！ Javaでクリーンアーキテクチャ -- ゼロから始める新規開発](https://speakerdeck.com/nrslib/clean-architecture-with-java) 成瀬 允宣 ([@nrslib](https://twitter.com/nrslib))
 - [【G】 Catch up Java 12 and Java 13](https://www.slideshare.net/YujiKubota/catch-up-java-12-and-java-13) KUBOTA Yuji ([@sugarlife](https://twitter.com/sugarlife))
 - [【M】 Java開発者のためのWebAuthn入門](https://speakerdeck.com/ynojima/webauthn-for-java-developers) 能島 良和
 
@@ -50,6 +51,8 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 
 ## 参加しましたブログ
 
+- [[JJUG CCC 2019 Spring]先行開発！Javaでクリーンアーキテクチャ — ゼロから始める新規開発　というタイトルで登壇しました](https://nrslib.com/event-after-jjug-ccc-2019-spring/)
 
 ## togetter
 
+- [【JJUG CCC】先行開発！Javaでクリーンアーキテクチャ -- ゼロから始める新規開発 のまとめ](https://togetter.com/li/1356434) 
