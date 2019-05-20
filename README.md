@@ -6,9 +6,8 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 
 ## 10:00-10:45
 - [【C+D】Collections Framework 入門](https://www.slideshare.net/mikeneck/jjugccc-2019-spring-collections-framework-jjug-jjugccc-cccc1) [持田真哉(@mike_neck)](https://twitter.com/mike_neck)
+- [【G+H】 Java11時代のHTTP(S)アクセス再入門](https://www.slideshare.net/tamrin69/introduction-httpclient-on-java11) Kiyotaka Suzuki ([@tamtam180](https://twitter.com/tamtam180))
 - [【M】 Eclipse MicroProfile提供機能に関する考察](https://github.com/jjug-ccc/slides-articles-2019Spring/blob/master/slide/m1a_EclipseMicroProfile.pdf) 髙橋 博実
-
-#ccc_m1a
 
 ## 11:00-11:45
 
