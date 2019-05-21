@@ -7,6 +7,7 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 ## 10:00-10:45
 - [【A+B】初めてのgRPC](https://speakerdeck.com/line_developers/starting-grpc) 前多賢太郎
 - [【C+D】Collections Framework 入門](https://www.slideshare.net/mikeneck/jjugccc-2019-spring-collections-framework-jjug-jjugccc-cccc1) [持田真哉(@mike_neck)](https://twitter.com/mike_neck)
+- [【E+F】 JJUG基調講演 - 現代に求められるJavaコミュニティとは](https://speakerdeck.com/shintanimoto/what-should-be-the-java-community-of-today) 谷本 心 ([@cero_t](https://twitter.com/cero_t))
 - [【G+H】 Java11時代のHTTP(S)アクセス再入門](https://www.slideshare.net/tamrin69/introduction-httpclient-on-java11) Kiyotaka Suzuki ([@tamtam180](https://twitter.com/tamtam180))
 - [【I】 OpenCensusで始める分散トレーシングと監視](https://docs.google.com/presentation/d/e/2PACX-1vRotoqhMthVJ6fsAnYIAz04M_-W2HFG43Hc88IXRjlx2WI7z9HB6dGJyj6KhRv-iryz-FD5kxyA0vCr/pub?start=false&loop=false&delayms=3000) Yoshida([@grimrose](https://github.com/grimrose))
 - [【M】 Eclipse MicroProfile提供機能に関する考察](https://github.com/jjug-ccc/slides-articles-2019Spring/blob/master/slide/m1a_EclipseMicroProfile.pdf) 髙橋 博実
