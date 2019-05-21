@@ -16,6 +16,7 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 ## 11:00-11:45
 
 - [【A+B】 パッケージ管理していなかった既存システムに後付けで Gradle を導入した話](https://speakerdeck.com/saiya_moebius/how-to-setup-gradle-to-improve-legacy-java-system) 矢崎 聖也 ([@saiya_moebius](https://twitter.com/saiya_moebius))
+- [【E+F】 Valhalla, updates and future](https://www.slideshare.net/DavidBuck7/valhalla-update-jjug-ccc-spring-2019) David Buck ([@DavidBuckJP](https://twitter.com/davidbuckjp))
 - [【G+H】大企業運営の法人向けサービスにおけるOpenJDK移行事例 ](https://blog.fieldnotes.jp/entry/jjug-ccc-2019-spring) 大中浩行
 - [【G+H】 開発リーダー1年目。メンバーのスキルアップのためにやっていること。](https://docs.google.com/presentation/d/1Xx5UPJkmy2dgzRloe8zaGGpEPWk1rhLiAMypK4TKRz8/edit?usp=sharing) 丹野 航
 - [【I（前半）】 Jakarta EE Update - May 2019 -](https://www.slideshare.net/khasunuma/jakarta-ee-update-may-2019) 蓮沼 賢志 ([@knhasunuma](https://twitter.com/knhasunuma)
@@ -39,6 +40,7 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 ## 14:30-15:15
 
 - [【A+B（後半）】 入門: 末尾呼び出し最適化](https://speakerdeck.com/miyakawataku/tail-call-elimination-intro) 宮川拓 ([@miyakawa\_taku](https://twitter.com/miyakawa_taku))
+- [【C+D】 ホットペッパービューティーにおけるモバイルアプリ向けAPIのBFF/Backend分割](https://www.slideshare.net/RecruitLifestyle/apibffbackend-146832033) 索手一平 ([@sakuna63](https://twitter.com/sakuna63))
 - [【E+F】 テストエンジニアが教える JUnitを書き始める前に考えるべきテスト](https://speakerdeck.com/nihonbuson/jjug-ccc-2019-spring) 風間 裕也 ([@nihonbuson](https://twitter.com/nihonbuson))
 - [【G+H】 Java クライント実装におけるAPIスタイル頂上決戦! 野良REST vs GraphQL vs OData vs OpenAPI (Swagger)](https://speakerdeck.com/sugimomoto/java-kuraintoshi-zhuang-niokeruapisutairuding-shang-jue-zhan-ye-liang-rest-vs-graphql-vs-odata-vs-openapi-swagger) 杉本和也
 - [【I】 Cloud (K)native Java Services -- Deploying your Java services in Serverless World --](https://slidr.io/kameshsampath/cloud-k-native-java-services-deploying-your-java-services-in-serverless) Kamesh Sampath ([@kamesh_sampath](https://twitter.com/kamesh_sampath))
@@ -80,6 +82,7 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 - [Jib入門](https://speakerdeck.com/nogamincho/jibru-men) 野上 恭平 ([@nogamincho](https://twitter.com/nogamincho)）
 - [List のシャッフル操作を可能な限り高速化してみる](https://docs.google.com/presentation/d/1OFq1GNGNuQEftFhtAjGgvZs7pciMDs6W0Kto0QtLwwI/edit#slide=id.p) KOMIYA Atsushi ([@komiya_atsushi](https://twitter.com/komiya_atsushi))
 - [個人で作ったニッチなアプリの宣伝でやってみた6つのこと](http://www.tomokosugimoto.net/drum/other/jjug_ccc/slide_web.html) 杉本和子
+- [Dr. Springlove または私は如何にして心配するのを止めてDIを愛するようになったか](https://speakerdeck.com/zhanpon/dr-springlove) / [@zhanpon](https://twitter.com/zhanpon)
 
 ## 参加しましたブログ
 
