@@ -36,7 +36,7 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 
 ## 14:30-15:15
 
-- [【A+B（後半）】 入門: 末尾呼び出し最適化](https://https://speakerdeck.com/miyakawataku/tail-call-elimination-intro) 宮川拓 ([@miyakawa\_taku](https://twitter.com/miyakawa_taku))
+- [【A+B（後半）】 入門: 末尾呼び出し最適化](https://speakerdeck.com/miyakawataku/tail-call-elimination-intro) 宮川拓 ([@miyakawa\_taku](https://twitter.com/miyakawa_taku))
 - [【E+F】 テストエンジニアが教える JUnitを書き始める前に考えるべきテスト](https://speakerdeck.com/nihonbuson/jjug-ccc-2019-spring) 風間 裕也 ([@nihonbuson](https://twitter.com/nihonbuson))
 - [【G+H】 Java クライント実装におけるAPIスタイル頂上決戦! 野良REST vs GraphQL vs OData vs OpenAPI (Swagger)](https://speakerdeck.com/sugimomoto/java-kuraintoshi-zhuang-niokeruapisutairuding-shang-jue-zhan-ye-liang-rest-vs-graphql-vs-odata-vs-openapi-swagger) 杉本和也
 - [【I】 Cloud (K)native Java Services -- Deploying your Java services in Serverless World --](https://slidr.io/kameshsampath/cloud-k-native-java-services-deploying-your-java-services-in-serverless) Kamesh Sampath ([@kamesh_sampath](https://twitter.com/kamesh_sampath))
