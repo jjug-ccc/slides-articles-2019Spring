@@ -31,6 +31,7 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 - [【C+D】 マルチテナントECシステムにおける拡張性と最新性の両立](https://www.slideshare.net/ssusera756b0/ec-146376859) 水野 謙
 - [【E+F】 先行開発！ Javaでクリーンアーキテクチャ -- ゼロから始める新規開発](https://speakerdeck.com/nrslib/clean-architecture-with-java) 成瀬 允宣 ([@nrslib](https://twitter.com/nrslib))
 - [【G+H】 Catch up Java 12 and Java 13](https://www.slideshare.net/YujiKubota/catch-up-java-12-and-java-13) KUBOTA Yuji ([@sugarlife](https://twitter.com/sugarlife))
+- [【I】Bulletproof Java Enterprise Applications for The Hard Production Life](https://www.sebastian-daschner.com/talks/bulletproof-ee/) Sebastian Daschner
 - [【M】 Java開発者のためのWebAuthn入門](https://speakerdeck.com/ynojima/webauthn-for-java-developers) 能島 良和
 
 ## 14:30-15:15
@@ -82,7 +83,31 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 
 - [[JJUG CCC 2019 Spring]先行開発！Javaでクリーンアーキテクチャ — ゼロから始める新規開発　というタイトルで登壇しました](https://nrslib.com/event-after-jjug-ccc-2019-spring/)
 - [JJUG CCC 2019 Spring ( #jjug_ccc ) - セッション資料の一覧 - 地平線に行く](https://yujisoftware.hatenablog.com/entry/2019/05/19/040112)
+- [JJUG CCC 2019 Springで色々な工夫を凝らしつつ、テストについて発表してきました！ #jjug_ccc #ccc_e4](http://nihonbuson.hatenadiary.jp/entry/2019/05/20/080000)
+- [JJUG CCC 2019 Spring 参加報告](http://suzaku-tec.hatenadiary.jp/entry/2019/05/20/233523)
+- [JJUG CCC 2019 Springの記録](https://miyakawataku.hatenablog.com/entry/20190520/1558358694)
+- [JJUG CCC 2019 Springに登壇しました](https://www.project-respite.com/jjug-ccc-2019-spring/)
+- [Oracle Code Tokyo 2019とJJUG CCC 2019 Springに行ってきた](https://dev.classmethod.jp/etc/jjug-ccc-2019-spring/)
+- [JJUG CCC 2019 Spring - Java クイズ](https://www.m3tech.blog/entry/2019/05/18/140557)
+- [増田亨さん「マイクロサービス 4つの分割アプローチ」を聞きに行けなかったんだけど教えてもらったのでまとめてみる](https://taichiw.hatenablog.com/entry/2019/05/20/190605)
+- [JJUG CCC 2019 Springに行ってきました - yachiy note](https://yachiy.hatenablog.com/entry/2019/05/18/221734)
+- [JJUG CCC 2019 Spring に行ってきた #jjug_ccc - kntmr-blog](https://kntmr.hatenablog.com/entry/2019/05/18/223621)
+- [JJUG CCC 2019 Springに参加してきました - 水無瀬のプログラミング日記](https://minase-program.hatenablog.com/entry/2019/05/20/000357)
+- [2019-05-18JJUG CCC 2019 Spring #jjug_ccc｜諏訪真一｜note](https://note.mu/suwash/n/n5f5937986b25#LNHzU)
+- [JJUG 参加レポート](https://www.m3tech.blog/entry/jjug-2019-spring)
+- [JJUG CCC 2019 Spring に行ってきました](https://qiita.com/taumax/items/2f4ff3a82cb1f243e572)
+- [JJUG CCC 2019 Spring(#jjug_ccc)に参加してきました](https://chichi1091.hatenablog.jp/entry/2019/05/18/224111)
+- [JJUG CCC 2019 Spring に行ってきた](https://itatyo.hatenadiary.jp/entry/2019/05/20/095324)
+- [JJUG CCC 2019 Spring - EVGENIYの日記](http://evgeniy.hatenablog.com/entry/2019/05/20/010521)
+- [jjug ccc 2019 springに行ってきました](https://yyyank.blogspot.com/2019/05/jjug-ccc-2019-spring.html)
+- [「JJUG CCC 2019 Spring」memo](http://www.cloudsquare.jp/kumonosu/program/java/post-1878/)
+- [JJUG CCC 2019 Springに参加してきました #jjug_ccc](https://www.grimrose.org/blog/2019/05/jjug-ccc-2019/)
+- [JJUG CCC 2019 Springで発表しました](https://tanoseam.wordpress.com/2019/05/19/jjug-ccc-2019-spring/)
 
 ## togetter
 
+- [JJUG CCC 2019 Springのまとめ](https://togetter.com/li/1356737)
 - [【JJUG CCC】先行開発！Javaでクリーンアーキテクチャ -- ゼロから始める新規開発 のまとめ](https://togetter.com/li/1356434) 
+
+## movie
+- [60 Second Groundbreaker Developer story at JJUG CCC 2019 Spring in Tokyo](https://www.youtube.com/playlist?list=PLPIzp-E1msrbCZVGIXeSU9eEl-dyIgOq_)
