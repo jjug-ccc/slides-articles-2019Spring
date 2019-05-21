@@ -28,6 +28,7 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 
 ## 13:30-14:15
 
+- [【A+B】 Java11へのマイグレーションガイド \~Apache Hadoopの事例\~](https://www.slideshare.net/techblogyahoo/java11-apache-hadoop-146834504/) 鯵坂 明 ([@ajis\_ka](https://twitter.com/ajis_ka)), 浅沼 孝信 ([@hayanige](https://twitter.com/hayanige))
 - [【C+D】 マルチテナントECシステムにおける拡張性と最新性の両立](https://www.slideshare.net/ssusera756b0/ec-146376859) 水野 謙
 - [【E+F】 先行開発！ Javaでクリーンアーキテクチャ -- ゼロから始める新規開発](https://speakerdeck.com/nrslib/clean-architecture-with-java) 成瀬 允宣 ([@nrslib](https://twitter.com/nrslib))
 - [【G+H】 Catch up Java 12 and Java 13](https://www.slideshare.net/YujiKubota/catch-up-java-12-and-java-13) KUBOTA Yuji ([@sugarlife](https://twitter.com/sugarlife))
