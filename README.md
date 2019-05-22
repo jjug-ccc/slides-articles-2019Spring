@@ -113,6 +113,7 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 - [JJUG CCC 2019 Spring 参加メモ](https://marcie001.qrunch.io/logs/7XXjqckrKGXq5ZRD)
 - [2019-05-18JJUG CCC 2019 Spring #jjug_ccc](https://note.mu/suwash/n/n5f5937986b25)
 - [JJUG CCC 2019 Spring で20分話したよ #jjug_ccc #ccc_m5b](http://tadashi.hatenablog.com/entry/2019/05/18/201644)
+- [JJUG CCCにボランティアスタッフとして参加しました！！](http://acro-engineer.hatenablog.com/entry/2019/05/22/120000)
 
 ## togetter
 
