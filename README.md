@@ -67,7 +67,8 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 ## 17:45-18:30
 
 - [【A+B】 Functional Spring Cookbook](https://docs.google.com/presentation/d/1-0NopTfA-CGiCNvKPDOH9ZDMHhazKuoT-_1R69Wp8qs/edit) Toshiaki Maki ([@making](https://twitter.com/making))
-- [【C+D】 マイクロサービス ４つの分割アプローチ](https://www.slideshare.net/masuda220/ss-146325870) 増田 亨
+- [【C+D】 Serverless Java](https://www.slideshare.net/shaunmsmith/serverless-java-jjug-ccc-2019) Shaun Smith ([@shaunMsmith](https://twitter.com/shaunMsmith))
+- [【G+H】 マイクロサービス ４つの分割アプローチ](https://www.slideshare.net/masuda220/ss-146325870) 増田 亨
 - [【M】 Reladomoを使ったトランザクション履歴管理をプロダクトに適用した際のメリット/デメリット/課題など](https://www.slideshare.net/navekazu/reladomo-146647716) 渡邉 一夫
 
 ## アンカンファレンス
