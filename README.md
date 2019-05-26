@@ -75,6 +75,7 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 
 - [最近のJava Webフレームワーク](https://speakerdeck.com/kishida/java-web-framework-ccc-2019-spr) きしだ なおき ([@kis](https://twitter.com/kis))
 - [Introducing Micronaut](https://speakerdeck.com/bufferings/introducing-micronaut) Mitsuyuki Shiiba ([@bufferings](https://twitter.com/bufferings))
+- [最適なOpenJDKディストリビューションの選び方](https://www.slideshare.net/TakahiroYamada3/how-to-choose-the-best-openjdk-distribution-201905) Takahiro YAMADA ([@yamadamn](https://twitter.com/yamadamn))
 
 ## LT(Lightning Talk)
 
