@@ -35,6 +35,7 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 - [【E+F】 先行開発！ Javaでクリーンアーキテクチャ -- ゼロから始める新規開発](https://speakerdeck.com/nrslib/clean-architecture-with-java) 成瀬 允宣 ([@nrslib](https://twitter.com/nrslib))
 - [【G+H】 Catch up Java 12 and Java 13](https://www.slideshare.net/YujiKubota/catch-up-java-12-and-java-13) KUBOTA Yuji ([@sugarlife](https://twitter.com/sugarlife))
 - [【I】Bulletproof Java Enterprise Applications for The Hard Production Life](https://www.sebastian-daschner.com/talks/bulletproof-ee/) Sebastian Daschner
+- [【M】俺たちのドメイン駆動設計はこれからだ！](https://speakerdeck.com/booookstore/an-tatifalsedomeinqu-dong-she-ji-hakorekarada?slide=2) 本谷 亮介 ([@bookstoreTech](https://twitter.com/bookstoreTech))
 - [【M】 Java開発者のためのWebAuthn入門](https://speakerdeck.com/ynojima/webauthn-for-java-developers) 能島 良和
 
 ## 14:30-15:15
