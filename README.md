@@ -59,7 +59,7 @@ JJUG CCC 2019 Spring 登壇資料まとめ
 
 ## 16:45-17:30
 
-- [【A+B】 Project Loom - 限定継続と軽量スレッド](https://speakerdeck.com/skrb/project-loom-qing-liang-suretudotoxian-ding-ji-sok) 櫻庭 祐一 ([@skrb](https://twitter.com/skrb))
+- [【A+B】 Project Loom - 限定継続と軽量スレッド](https://www.slideshare.net/skrb/project-loom-148538757) 櫻庭 祐一 ([@skrb](https://twitter.com/skrb))
 - [【E+F】 JJUG会長と一緒に考えたSpring Boot x JavaScript x IntelliJ x アジャイルというモダンな新人研修を今まさにやっている話](https://speakerdeck.com/masatoshitada/modern-new-employees-training-spring-boot-javascript-intellij-agile) 多田真敏 ([@suke_masa]https://twitter.com/suke_masa))
 -  [【G+H】 ストラングラーパターンによるマイクロサービスマイグレーションの勘所](https://speakerdeck.com/kawakamitor/jjug-ccc-2019-spring) 川上徹 ([@kawakamitor0312](https://twitter.com/kawakamitor0312))
 - [【M（前半）】 今日から始めるカジュアルなソースコード解析](https://speakerdeck.com/akiragoto/jjug-ccc-2019-spring) 後藤 祥
